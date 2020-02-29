@@ -1,0 +1,13 @@
+http://192.168.1.101:8989/FlaskRedirect/foo//levelling?month=10&year=2019&level=4
+
+http://192.168.1.101:8989/FlaskRedirect/foo//target/percent?percentage=10&levels=1&ulimit=137166.35&llimit=47293.56
+
+http://192.168.1.101:8989/FlaskRedirect/foo//target/value?value=10&levels=1&ulimit=137166.35&llimit=47293.56
+
+http://192.168.1.101:8989/FlaskRedirect/foo//recsysitem?itemid=1197&number=10
+
+http://192.168.1.101:8989/FlaskRedirect/foo//recsysitem2?itemid=10639&number=20&warehouseid=10
+
+http://192.168.1.101:8989/FlaskRedirect/foo//recsysitem3?itemid1=3413&itemid2=5178&itemid3=3671&itemid4=4707&itemid5=5444&number=20&warehouseid=7
+
+http://192.168.1.101:8989/FlaskRedirect/foo//allocation?month=5&year=2019&band=3&amount=100000&l0amount=10000&levels=1&cityid=1&warehouseid=7
